@@ -18,10 +18,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.jpg",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mr_varshney2004.Snake"
     },
     "web": {
       "favicon": "./assets/logo.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1600956d-cb3d-4947-95fd-9767b9ffd2fe"
+      }
     }
   }
 }
